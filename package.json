@@ -1,0 +1,1 @@
+{"description":"One-line excuse an AI agent gives for green tests while nothing works.","license":"MIT","main":"main.ts","name":"green-tests-excuse-20261126","private":true,"author":"museshiro","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
